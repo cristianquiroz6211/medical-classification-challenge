@@ -9,12 +9,12 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="medical-classification-challenge",
     version="1.0.0",
-    author="Medical AI Challenge Team",
-    author_email="team@medical-ai-challenge.com",
+    author="Cristian Quiroz",
+    author_email="cristiandavidq7@gmail.com",
     description="Sistema de clasificación automática de literatura médica usando Machine Learning",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/tu-usuario/medical-classification-challenge",
+    url="https://github.com/cristianquiroz6211/medical-classification-challenge",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
@@ -56,8 +56,8 @@ setup(
         "": ["*.txt", "*.md", "*.yml", "*.yaml"],
     },
     project_urls={
-        "Bug Reports": "https://github.com/tu-usuario/medical-classification-challenge/issues",
-        "Source": "https://github.com/tu-usuario/medical-classification-challenge",
-        "Documentation": "https://github.com/tu-usuario/medical-classification-challenge/wiki",
+        "Bug Reports": "https://github.com/cristianquiroz6211/medical-classification-challenge/issues",
+        "Source": "https://github.com/cristianquiroz6211/medical-classification-challenge",
+        "Documentation": "https://github.com/cristianquiroz6211/medical-classification-challenge/wiki",
     },
 )

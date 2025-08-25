@@ -45,7 +45,7 @@ pip >= 20.0
 
 1. **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/medical-classification-challenge.git
+git clone https://github.com/cristianquiroz6211/medical-classification-challenge.git
 cd medical-classification-challenge
 ```
 
@@ -378,6 +378,6 @@ Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más detal
 
 **⭐ Si este proyecto te resulta útil, considera darle una estrella ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/tu-usuario/medical-classification-challenge.svg?style=social&label=Star)](https://github.com/tu-usuario/medical-classification-challenge)
+[![GitHub stars](https://img.shields.io/github/stars/cristianquiroz6211/medical-classification-challenge.svg?style=social&label=Star)](https://github.com/cristianquiroz6211/medical-classification-challenge)
 
 </div>
