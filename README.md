@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![F1-Score](https://img.shields.io/badge/F1--Score-0.864-brightgreen.svg)]()
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)]()
+
 
 > Sistema de Inteligencia Artificial para la clasificación automática de artículos médicos en dominios especializados basándose únicamente en el título y el abstract.
 
@@ -334,15 +334,7 @@ El proyecto genera automáticamente:
 - Distribuciones del dataset
 - Análisis de co-ocurrencias
 
-## 🤝 Contribuciones
 
-Las contribuciones son bienvenidas. Por favor:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`)
-3. Commit tus cambios (`git commit -m 'Agregar nueva funcionalidad'`)
-4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request
 
 ## 📈 Próximos Pasos
 
@@ -356,7 +348,6 @@ Las contribuciones son bienvenidas. Por favor:
 
 Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
 
-## 👨‍💻 Autor
 
 **Challenge de Clasificación de Literatura Médica**
 - 📧 Email: [Cristiandavidq7@gmail.com]
@@ -364,13 +355,6 @@ Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más detal
 - 💼 LinkedIn: [https://www.linkedin.com/in/cristianquiroz1034916211/]
 - Reto de : [https://techspherecolombia.com/ai-data-challenge/]
 
-## 🙏 Agradecimientos
-
-- NCBI por los datos médicos
-- BC5CDR dataset
-- Comunidad de machine learning médico
-- Scikit-learn y Python ecosystem
--
 
 ---
 
